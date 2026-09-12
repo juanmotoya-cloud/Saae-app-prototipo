@@ -3,13 +3,13 @@
 * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 
 :root {
-  --navy:        #0a2c5e;
+  --navy:        #2E3192;
   --navy-dark:   #072149;
   --navy-soft:   #123a75;
-  --yellow:      #ffd200;
+  --yellow:      #FCEE21;
   --yellow-deep: #f5c400;
   --bg:          #f3f5f9;
-  --card:        #ffffff;
+  --card:        #FFFFFF;
   --border:      #e6eaf2;
   --text:        #0f2f5f;
   --muted:       #64748f;
